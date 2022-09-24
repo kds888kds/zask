@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "715353598755",
+    "project_id": "zap-ask",
+    "storage_bucket": "zap-ask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715353598755:android:4689c5e1c8a1af8e943a96",
+        "android_client_info": {
+          "package_name": "com.example.zap_ask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715353598755-eq9bc0j2m59ce63tcgdqp74n7f1i0f22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zap_ask",
+            "certificate_hash": "f5f75a68703146d1c29c6eeb6baf2cc57ca8446c"
+          }
+        },
+        {
+          "client_id": "715353598755-04jeoth7bqv74bg3l3vn3362meghj435.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY94VIkITNlkJYE6J1ZuS2lDqU3kb7DmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715353598755-04jeoth7bqv74bg3l3vn3362meghj435.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
